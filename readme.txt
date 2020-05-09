@@ -9,7 +9,7 @@
 \f0\fs24 \cf2 \cb3 \expnd0\expndtw0\kerning0
 \outl0\strokewidth0 \strokec2 Git 
 \f1\b is
-\f0\b0  a version control system.\
+\f0\b0  a distributed version control system.\
 Git 
 \f1\b is
 \f0\b0  free software.\
