@@ -12,5 +12,5 @@
 \f0\b0  a distributed version control system.\
 Git 
 \f1\b is
-\f0\b0  free software.\
+\f0\b0  free software distributed under the GPL.\
 }
